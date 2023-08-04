@@ -1,4 +1,4 @@
-# code_challenge
+## yarn start is the command to launch the project. Before lanching the project , I invite you  to install the nodes_modules with the command npm install into the project # code_challenge
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
